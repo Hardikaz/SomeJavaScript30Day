@@ -1,2 +1,2 @@
 # SomeJavaScript30Day
-This is for JavaScript.
+This is for JavaScript important codes and study materials.
